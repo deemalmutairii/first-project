@@ -1,16 +1,24 @@
 # first-project
 
-Date created
+Date created:
+
+
 26/11/2022
 
-Project Title
+Project Title:
+
+
 US BIKESHARE DATA PROJECT
 
-Description
+Description:
+
+
 PYTHON IS USED TO EXPLORE THE DATA RELATED TO BIKESHARE SYSTEMS FOR 3 CITIES IN THE US
 
-Files used
+Files used:
+
 bikesheraproj.py
 
-Credits
+Credits:
+
 https://udacity.github.io/git-styleguide/
